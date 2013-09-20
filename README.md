@@ -11,3 +11,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![sticker_aoisan.png](https://raw.github.com/JecyLosika/AoisanSticker/master/gitfab/resources/sticker_aoisan.png)
 ---
+<h1>Download</h1>
+Adobe Illustrator用のデータ（aiファイル）です。<br>
+Illustrator8以降のバージョンで利用できます。<br>
+<br>
+---
