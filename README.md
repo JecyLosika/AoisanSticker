@@ -15,4 +15,6 @@ This document is made by [gitfab](http://gitfab.org)
 Adobe Illustrator用のデータ（aiファイル）です。<br>
 Illustrator8以降のバージョンで利用できます。<br>
 <br>
+
+[sticker_aoisan.zip](https://raw.github.com/JecyLosika/AoisanSticker/master/gitfab/resources/sticker_aoisan.zip)
 ---
